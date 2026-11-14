@@ -1,6 +1,6 @@
 {
- "name": "Dinosauří glóbus",
- "short_name": "Dinoglóbus",
+ "name": "Terra Nova",
+ "short_name": "TerraNova",
  "description": "3D glóbus s pohybem kontinentů za posledních 252 milionů let a sbírkou dinosaurů.",
  "lang": "cs",
  "start_url": "./",
